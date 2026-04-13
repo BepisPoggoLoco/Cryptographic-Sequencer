@@ -30,31 +30,31 @@ In actuality, this is an arduino based IR and RFID signal reader/cloner.
 
 ## IR Submenu
 
-Receive
+**Receive
 
 - Await the presence of an IR signal; Decode and store signal's raw data, command, and protocol in 3 corresponding variables<sub> IR_Received_Value, IR_Received_Command, IR_Received_Protocol</sub>
   
-Send
+**Send
 
 - Echo back received signal given the information stored in our 3 variables
   
-Storage
+**Storage
 
 - View metadata about stored IR signal 
 
 ## RFID Submenu
 
-Receive
+**Receive
 
-- Receive signal and store in local variable
+- Await the presence of an RFID device; Decode and store device's Unique Identifier (UID) in a corresponding variable
   
-Send
+**Send
 
-- Send IR signal stored in storage
+- Await the presence of an RFID device and write the currently stored UID into that device
   
-Storage
+**Storage
 
-- View currently stored IR signal 
+- View currently stored UID
 
 ## Electronic Structure 
 
