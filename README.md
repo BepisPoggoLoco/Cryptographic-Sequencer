@@ -8,17 +8,17 @@ In actuality, this is an arduino based IR and RFID signal reader/cloner.
 
 # Core Components
 
-1. Arduino of any kind (I used an uno) <sub>(x1)</sub>
++ Arduino of any kind (I used an uno) <sub>(x1)</sub>
 
-2. RC522 RFID reader/writer module **(x1)**
++ RC522 RFID reader/writer module <sub>(x1)</sub>
 
-3. IR receiver module **(x1)**
++ IR receiver module <sub>(x1)</sub>
 
-4. IR LED **(x1)**
++ IR LED <sub>(x1)</sub>
 
-5. Pushbuttons **(x1)**
++ Pushbuttons <sub>(x1)</sub>
 
-6. 0.96 inch I2C OLED **(x1)**
++ 0.96 inch I2C OLED <sub>(x1)</sub>
 
 *I sourced components 1,2,3, and 5 from my ELEGOO UNO R3 Super Starter Kit and the rest from AliExpress*
 
@@ -26,7 +26,7 @@ In actuality, this is an arduino based IR and RFID signal reader/cloner.
 
 # Code Structure 
 
-The main file (*Crytographic_Sequencer.ino*) contains the OLED GUI code and draws functions from the RFID and IR cloner library (*RFIDIRCloner.cpp and RFIDIRCloner.h*)
+The main file (*Crytographic_Sequencer.ino*) contains the OLED GUI code and calls functions from the RFID and IR cloner library (*RFIDIRCloner.cpp and RFIDIRCloner.h*)
 
 # Code Logic 
 
