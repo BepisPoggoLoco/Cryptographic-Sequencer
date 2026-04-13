@@ -16,7 +16,7 @@ In actuality, this is an arduino based IR and RFID signal reader/cloner.
 
 4. IR LED (x1)
 
-5. Pushbuttons (x1)
+5. Pushbuttons (x3)
 
 6. 0.96 inch I2C OLED (x1)
 
