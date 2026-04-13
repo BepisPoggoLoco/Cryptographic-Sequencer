@@ -26,11 +26,11 @@ In actuality, this is an arduino based IR and RFID signal reader/cloner.
 
 # Code Structure 
 
-The main file (Crytographic_Sequencer.ino) contains the code for the OLED GUI and utilizes the functions from the RFID and IR cloner library.
+The main file (Crytographic_Sequencer.ino) contains the code for the OLED GUI and utilizes the functions from the RFID and IR cloner library (RFIDIRCloner.cpp and RFIDIRCloner.h)
 
 # Code Logic 
 
-All files are thoroughly commented 
+All files are thoroughly commented so each script's core components are explained
 
 
 
