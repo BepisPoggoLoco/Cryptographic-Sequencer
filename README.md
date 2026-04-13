@@ -20,7 +20,10 @@ In actuality, this is an arduino based IR and RFID signal reader/cloner.
 
 6. 0.96 inch I2C OLED (x1)
 
-*I sourced components 1,2,3, and 5 from an ELEGOO UNO R3 Super Starter Kit and the rest from AliExpress*
+*I sourced components 1,2,3, and 5 from my ELEGOO UNO R3 Super Starter Kit and the rest from AliExpress*
+
+# Schematic
+
 
 
 
