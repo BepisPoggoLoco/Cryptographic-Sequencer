@@ -8,7 +8,7 @@ In actuality, this is an arduino based IR and RFID signal reader/cloner.
 
 # Core Components
 
-1. Arduino **(x1)**
+1. Arduino of any kind (I used an uno) <sub>(x1)</sub>
 
 2. RC522 RFID reader/writer module **(x1)**
 
