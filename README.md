@@ -30,7 +30,7 @@ The main file <sub>(**Crytographic_Sequencer.ino**)</sub> contains the OLED GUI 
 
 # Code Logic 
 
-All files are thoroughly commented so each script's core components are explained
+All files are thoroughly commented with explanations of each script's core components 
 
 
 
