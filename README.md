@@ -4,6 +4,8 @@ Named "Cryptographic Sequencer" as a reference to Batman's hacking device in the
 
 In actuality, this is an arduino based IR and RFID signal reader/cloner.
 
+![Tuff Batman pic](https://teamliquid.com/staff/shiroiusagi/tlpro/0207_g2a/batrmanscreen03.jpg)
+
 # Core Components 
 
 x1 RC522 RFID reader/writer module
@@ -17,4 +19,5 @@ x3 Pushbuttons
 x1 Arduino Uno
 
 x1 0.96 inch I2C OLED
+
 
