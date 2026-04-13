@@ -24,9 +24,25 @@ In actuality, this is an arduino based IR and RFID signal reader/cloner.
 
 # Schematic
 
-# Code Structure 
+# Structure 
 
-The main file <sub>(**Crytographic_Sequencer.ino**)</sub> contains the OLED GUI code and calls functions from the RFID and IR cloner library <sub>(**RFIDIRCloner.cpp** and **RFIDIRCloner.h**)</sub>
+## Code Structure
+
+1. The main file <sub>(**Crytographic_Sequencer.ino**)</sub> contains the OLED GUI code and calls functions from the RFID and IR cloner library <sub>(**RFIDIRCloner.cpp** and **RFIDIRCloner.h**)</sub>
+
+## IR Submenu
+
+Receive: Receive signal and store in local variable
+Send: Send most recently stored IR signal
+Storage: View currently stored IR signal 
+
+## RFID Submenu
+
+Receive: Receive signal and store in local variable
+Send: Send most recently stored RFID Unique Identifier (UID)
+Storage: View currently stored RFID UID
+
+## Electronic Structure 
 
 # Code Logic 
 
