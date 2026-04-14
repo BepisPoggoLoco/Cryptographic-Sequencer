@@ -64,9 +64,9 @@ I used the following diagrams to hookup all the components in the core component
 
 ![IR Receiver](https://www.circuitbasics.com/wp-content/uploads/2017/05/Arduino-IR-Remote-Receiver-Breakout-Board-Wiring-Diagram.png)
 
-![Pushbuttons](/assets/images/Screenshot 2026-04-14 090953.png)
+![Pushbuttons](images/Screenshot 2026-04-14 090953.png)
 
-![I2C OLED](/assets/images/b60a7844-e2c7-4dd6-98c8-14d247eb41fa (2).jpg)
+![I2C OLED](images/b60a7844-e2c7-4dd6-98c8-14d247eb41fa (2).jpg)
 
 **PS: I hooked up all VCC/GND pins to desginated 5V/GND rails**
 
