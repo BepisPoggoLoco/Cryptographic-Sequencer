@@ -68,7 +68,7 @@ I used the following schematics to hookup all the components in the core compone
 
 ![I2C OLED]()
 
-**PS: I hooked up all VCC/GND pins to a desginated 5V/GND rail**
+**PS: I hooked up all VCC/GND pins to desginated 5V/GND rails**
 
 # Code Logic 
 
