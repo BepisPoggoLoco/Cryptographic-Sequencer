@@ -66,6 +66,8 @@ I used the following schematics to hookup all the components in the core compone
 
 
 
+**One helpful modification to declutter your breadboard was to utilize the power/GND rails on the top/bottom side of the breadboard; then connect VCC and GND pins to these rails**
+
 # Code Logic 
 
 All files are thoroughly commented with explanations of each script's core components 
