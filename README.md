@@ -65,9 +65,9 @@ I used the following diagrams to hookup all the components in the core component
 
 ![IR Receiver](https://www.circuitbasics.com/wp-content/uploads/2017/05/Arduino-IR-Remote-Receiver-Breakout-Board-Wiring-Diagram.png)
 
-![Pushbuttons](Screenshot 2026-04-14 090953.png)
+![Pushbuttons](pushbuttons.png)
 
-![OLED](b60a7844-e2c7-4dd6-98c8-14d247eb41fa (2).jpg)
+![OLED](.jpg)
 
 # Code Logic 
 
