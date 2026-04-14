@@ -1,8 +1,8 @@
 # Basis
 
-Named "Cryptographic Sequencer" as a reference to Batman's hacking device in the Arkham games. 
+Named "Cryptographic Sequencer" referening the hacking device in the Arkham Games.
 
-In actuality, this is an arduino based IR and RFID signal reader/cloner.
+In actuality, this is an Arduino based IR and RFID signal reader/cloner.
 
 ![Tuff Batman pic](https://teamliquid.com/staff/shiroiusagi/tlpro/0207_g2a/batrmanscreen03.jpg)
 
