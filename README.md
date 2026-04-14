@@ -59,7 +59,8 @@ In actuality, this is an arduino based IR and RFID signal reader/cloner.
 ## Electronic Structure
 
 I used the following diagrams to hookup all the components in the core components list
-**PS: I hooked up all VCC/GND pins to desginated 5V/GND rails**
+
+> PS: I hooked up all VCC/GND pins to desginated 5V/GND rails
 
 ![RC522](https://peppe8o.com/wp-content/uploads/2022/04/RFID-connection-diagram.jpg)
 
