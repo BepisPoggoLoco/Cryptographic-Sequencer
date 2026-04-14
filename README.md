@@ -66,7 +66,7 @@ I used the following diagrams to hookup all the components in the core component
 
 ![Pushbuttons](Screenshot 2026-04-14 090953.png)
 
-![I2C OLED](b60a7844-e2c7-4dd6-98c8-14d247eb41fa (2).jpg)
+![OLED](b60a7844-e2c7-4dd6-98c8-14d247eb41fa (2).jpg)
 
 **PS: I hooked up all VCC/GND pins to desginated 5V/GND rails**
 
