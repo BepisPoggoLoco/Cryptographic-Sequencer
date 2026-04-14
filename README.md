@@ -6,6 +6,8 @@ In actuality, this is an arduino based IR and RFID signal reader/cloner.
 
 ![Tuff Batman pic](https://teamliquid.com/staff/shiroiusagi/tlpro/0207_g2a/batrmanscreen03.jpg)
 
+# Videos
+
 # Core Components
 
 + Arduino of any kind (I used an uno) <sub>(x1)</sub>
@@ -26,7 +28,7 @@ In actuality, this is an arduino based IR and RFID signal reader/cloner.
 
 ## Code Structure
 
-1. The main file <sub>(**Crytographic_Sequencer.ino**)</sub> contains the OLED GUI code and calls functions from the RFID and IR cloner library <sub>(**RFIDIRCloner.cpp** and **RFIDIRCloner.h**)</sub>
+1. The main file <sub>(**Crytographic_Sequencer.ino**)</sub> primarily consists of OLED GUI logic; By importing our custom RFID and IR cloner library <sub>(**RFIDIRCloner.cpp** and **RFIDIRCloner.h**)</sub>, we can implement read_IR(), send_IR(), read_UID(), and change_UID() into the interaction of our OLED interface.
 
 ## IR Submenu
 
@@ -46,11 +48,11 @@ In actuality, this is an arduino based IR and RFID signal reader/cloner.
 
 **Receive**
 
-- Await the presence of an RFID device; Decode and store device's Unique Identifier (UID)
+- Await the presence of an RFID device; decode and store device's Unique Identifier (UID)
   
 **Send**
 
-- Await the presence of an RFID device and write the currently stored UID into presented device
+- Await the presence of an RFID device; write the currently stored UID into presented device
   
 **Storage**
 
