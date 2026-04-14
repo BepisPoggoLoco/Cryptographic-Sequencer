@@ -67,7 +67,7 @@ I used the following diagrams to hookup all the components in the core component
 
 ![Pushbuttons](pushbuttons.png)
 
-![OLED](.jpg)
+![OLED](OLED.jpg)
 
 # Code Logic 
 
