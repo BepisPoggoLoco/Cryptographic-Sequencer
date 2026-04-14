@@ -1,6 +1,6 @@
 # Basis
 
-Named "Cryptographic Sequencer" referening the hacking device in the Arkham Games.
+Named "Cryptographic Sequencer" referencing the hacking device in the Arkham Games.
 
 In actuality, this is an Arduino based IR and RFID signal reader/cloner.
 
@@ -24,9 +24,9 @@ In actuality, this is an Arduino based IR and RFID signal reader/cloner.
 
 *I sourced components 1,2,3, and 5 from my ELEGOO UNO R3 Super Starter Kit and the rest from AliExpress*
 
-# Schematic
+# Structure
 
-## Code Structure
+## Code
 
 1. The main file <sub>(**Crytographic_Sequencer.ino**)</sub> primarily consists of OLED GUI logic; By importing our custom RFID and IR cloner library <sub>(**RFIDIRCloner.cpp** and **RFIDIRCloner.h**)</sub>, we can implement read_IR(), send_IR(), read_UID(), and change_UID() through the interaction of our OLED interface.
 
@@ -58,7 +58,7 @@ In actuality, this is an Arduino based IR and RFID signal reader/cloner.
 
 - View currently stored UID
 
-## Electronic Structure
+## Electronics
 
 I used the following diagrams to hookup the core components
 
