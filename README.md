@@ -68,7 +68,7 @@ I used the following schematics to hookup all the components in the core compone
 
 ![I2C OLED]()
 
-**One helpful modification to declutter your breadboard was to utilize the power/GND rails on the top/bottom side of the breadboard; then connect VCC and GND pins to these rails**
+**PS: I hooked up all VCC/GND pins to a desginated 5V/GND rail**
 
 # Code Logic 
 
