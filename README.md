@@ -80,6 +80,10 @@ I used the following diagrams to hookup the core components
 
 All files are thoroughly commented with explanations of each script's core components 
 
+# Bugs
+
+1. You lowkey gotta spam the select button in order to get out of the "IR Send" screen
+2. There's hella wiring so the device isn't compact
 
 
 
