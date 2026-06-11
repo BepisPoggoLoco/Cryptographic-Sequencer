@@ -1,5 +1,3 @@
-
-
 # Basis
 
 Named "Cryptographic Sequencer" referencing the hacking device in the Arkham Games.
@@ -10,9 +8,7 @@ In actuality, this is an Arduino based IR and RFID signal reader/cloner.
 
 # Videos
 
-
-
-
+https://github.com/user-attachments/assets/2020dc38-6e1f-406d-b3ec-aca9fe583d4e
 
 # Core Components
 
