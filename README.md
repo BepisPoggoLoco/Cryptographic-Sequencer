@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/2020dc38-6e1f-406d-b3ec-aca9fe583d4e
 
 > IR Functionalites Showcase
 
-https://github.com/user-attachments/assets/2020dc38-6e1f-406d-b3ec-aca9fe583d4e
+https://github.com/user-attachments/assets/1c155cd8-2293-4b96-8317-75af1ead5b24
 
 > RFID Functionalites Showcase
 
