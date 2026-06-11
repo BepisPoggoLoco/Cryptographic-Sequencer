@@ -14,6 +14,8 @@ In actuality, this is an Arduino based IR and RFID signal reader/cloner.
 
 + RC522 RFID reader/writer module <sub>(x1)</sub>
 
++ Gen2 CUID Changeable Key Card <sub>(x1)</sub>
+
 + IR receiver module <sub>(x1)</sub>
 
 + IR LED <sub>(x1)</sub>
