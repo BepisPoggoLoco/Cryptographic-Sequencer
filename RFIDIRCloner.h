@@ -8,7 +8,7 @@
 class RFIDIRCloner {
   public:
     // Constructor
-    RFIDIRCloner(byte ss_pin, byte rst_pin, byte ir_receive_pin);
+    RFIDIRCloner(byte ss_pin, byte rst_pin, byte ir_receive_pin, byte ir_send_pin);
 
     // Setup
     void begin();
@@ -25,14 +25,15 @@ class RFIDIRCloner {
     byte UID[10];        // holds last read UID bytes (up to 10 bytes)
     byte UID_Size;       // number of bytes in last read UID
 
-    byte IR_Received_Value;
-    byte IR_Received_Command;
+    uint32_t IR_Received_Value;
+    uint8_t IR_Received_Command;
     byte IR_Repeats;
 
   private:
     byte _ss_pin;
     byte _rst_pin;
     byte _ir_receive_pin;
+    byte _ir_send_pin;
 
     MFRC522 *_mfrc522;
 
