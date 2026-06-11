@@ -8,6 +8,10 @@ In actuality, this is an Arduino based IR and RFID signal reader/cloner.
 
 # Videos
 
+
+
+
+
 # Core Components
 
 + Arduino of any kind (I used an uno) <sub>(x1)</sub>
@@ -84,8 +88,7 @@ All files are thoroughly commented with explanations of each script's core compo
 
 # Bugs
 
-1. You lowkey gotta spam the select button in order to get out of the "IR Send" screen
-2. There's hella wiring so the device isn't compact
+1. Device isn't that compact
 
 
 
