@@ -90,9 +90,6 @@ I used the following diagrams to hookup the core components
 
 All files are thoroughly commented with explanations of each script's core components 
 
-# Bugs
-
-1. Device isn't that compact
 
 
 
